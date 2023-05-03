@@ -1,0 +1,11 @@
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\bin\Debug\TextComparison.exe.config
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\bin\Debug\TextComparison.exe
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\bin\Debug\TextComparison.pdb
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.csproj.AssemblyReference.cache
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.Form1.resources
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.Properties.Resources.resources
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.csproj.GenerateResource.cache
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.csproj.CoreCompileInputs.cache
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.exe
+C:\Users\Cuni\Desktop\Github\TextComparison\TextComparison\obj\Debug\TextComparison.pdb
